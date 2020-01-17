@@ -1,0 +1,22 @@
+q1:https://github.com/PoopBear1
+
+q2:requests-2.22.0
+
+q3:requests-2.22.0
+
+q4: the version of 'python' on virtualenv is 3.7.1
+    the version of 'python' on local machine is  2.7.16
+
+q5: 301,"https://www.google.com/";
+
+q6: 418,'curl -iL', 'curl -iL' and 'curl -i' returns the same thing.
+
+q7: "<H3>Form Contents:</H3>
+    <DL>
+    <DT>X: <i>&lt;type 'instance'&gt;</i>
+    <DD>MiniFieldStorage('X', 'Y')
+    </DL>"
+"The POST method is used to submit an entity to the specified resource, 
+often causing a change in state or side effects on the server." --(MDN web docs,https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+
+q8:"https://raw.githubusercontent.com/PoopBear1/CMPUT404-Labs/master/lab1.py"

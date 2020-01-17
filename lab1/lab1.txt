@@ -19,4 +19,4 @@ q7: "<H3>Form Contents:</H3>
 "The POST method is used to submit an entity to the specified resource, 
 often causing a change in state or side effects on the server." --(MDN web docs,https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
-q8:"https://raw.githubusercontent.com/PoopBear1/CMPUT404-Labs/master/lab1.py"
+q8:"https://raw.githubusercontent.com/PoopBear1/CMPUT404_LABS/master/lab1/lab1.py"

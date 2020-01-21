@@ -1,0 +1,20 @@
+q1:
+use"socket.AF_INET,socket.SOCK_STREAM" to constrain TCP
+s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+
+q2:
+for a server socket,"s.bind()" and "s.listen()" will be used.
+for a client socket,"s.connect()"and "serversocket.sendall" will be used.
+
+q3:
+"s.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,1)"
+this function can let us use this port multiple times.
+
+q4:
+Connecttion address and ports.
+
+q5:
+A empty message.
+
+q6:
+https://github.com/PoopBear1/CMPUT404_LABS/tree/master/lab2

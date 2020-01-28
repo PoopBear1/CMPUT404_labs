@@ -1,0 +1,13 @@
+q1."import os" and "print(os.environ)"
+
+q2.QUERY_STRING
+
+q3.HTTP_USER_AGENT
+
+q4.All data would be allocated to FieldStorage() and cgi just retrives data from the storage again.
+
+q5.Set-Cookie:with values
+
+q6."Cookie",we use this keyword to send back the cookite.
+
+q7.To store information if input data is correct and can skip this input data step (it has information on Cookie) in the furture. 

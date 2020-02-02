@@ -1,0 +1,24 @@
+1. "https://github.com/PoopBear1/CMPUT404_LABS/tree/master/lab4"
+
+2. "Django installed successfully".
+
+3. /: "Page not found on"  , /polls: "Hello, world.. You're at the polls index".
+
+4. "makemigrations polls" is a command that we need to bulid or edit a database according to the database settings.
+
+5. 2 models are in this page. one is Questions and one is Choices. We can set our own model from admin.py and register the models in this file.
+
+6./polls/38/ :"You're looking at question 38".
+
+  /polls/38/results : "You're looking at the results of question 38".
+
+  /polls/38/vote :"You're working on the question: 38".
+
+  Type erro raises, question ID has been setted to INT.
+
+  We have to change ID Type to STR from INT.
+
+7. Hardcoding would be requried each time if urls changes each time.
+
+
+8. Django's generic views can reduce redundant code. If multiple views have some features in common then we can use view, otherwise no.

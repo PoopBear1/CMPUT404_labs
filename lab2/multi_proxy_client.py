@@ -15,7 +15,9 @@ def connect(addr):
 		s.shutdown(socket.SHUT_WR)
 
 		full_data = s.recv(BUFFER_SIZE)
-		print(full_data)
+		# print(full_data)
+
+
 	except Exception as e:
 		print(e)
 	finally:

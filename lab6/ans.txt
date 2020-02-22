@@ -1,0 +1,12 @@
+1. 
+  push code from git repos with git commands to Heroku apps
+  Github intergration
+  use heroku review apps
+  Docker
+  hashicorp terraform
+  deploy to heroku
+
+2. to process heroku apps. and also it can declear various process types.
+
+3.https://dashboard.heroku.com/apps/blooming-oasis-14966
+
